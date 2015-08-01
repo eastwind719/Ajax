@@ -11,7 +11,7 @@
 	姓名: <input type="text" name="name" placeholder="大名寫這兒唷" required><br><br>
 	暱稱: <input type="text" name="nickname" placeholder="小名寫這兒唷" required><br><br>
 	興趣: <input type="text" name="habit" placeholder="留個興趣讓大家認識你" required><br><br>
-	性別: <input type="radio" name="gender" value="男" checked>男性
+	性別: <input type="radio" name="gender" value="男">男性
 		  <input type="radio" name="gender" value="女">女性<br><br>
 	食趣: <select name="fav_food">
 			<option value="中式炒麵">中式炒麵</option>
