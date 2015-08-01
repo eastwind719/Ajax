@@ -1,0 +1,6 @@
+一個簡單的練習。
+
+使用非同步、不換頁面方式將資訊儲存在資料庫裡。
+
+此範例使用了:
+HTML、JavaScript、jQuery、PHP、MySQL
